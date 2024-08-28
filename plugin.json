@@ -1,0 +1,16 @@
+{
+  "id": "rsjronilson.acode.npm",
+  "name": "acode-npm",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "price": 0,
+  "author": {
+    "name": "Npm Intellisense",
+    "email": "ronilson.stos@gmail.com",
+    "github": "ronilson-users"
+  }
+}
